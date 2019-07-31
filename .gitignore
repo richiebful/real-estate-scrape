@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom ignores
+data/Allegheny_County_Address_Points.csv
