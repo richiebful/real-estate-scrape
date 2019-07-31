@@ -1,4 +1,4 @@
-,AddressListDescription,PortalMunicipalityCode,PortalMunicipalityDescription
+Index,AddressListDescription,PortalMunicipalityCode,PortalMunicipalityDescription
 0,RICHLAND TOWNSHIP,938,Richland
 1,ELIZABETH TOWNSHIP,908,Elizabeth Twp
 2,ELIZABETH BOROUGH,825,Elizabeth Boro
@@ -126,6 +126,6 @@
 173,EMSWORTH BOROUGH,826,Emsworth
 174,BEN AVON HEIGHTS BOROUGH,805,Ben Avon Heights
 175,BEN AVON BOROUGH,804,Ben Avon
-176,PENNSBURY VILLAGE  BOROUGH,,
+176,PENNSBURY VILLAGE  BOROUGH,871,Pennsbury Village
 177,BLAWNOX BOROUGH,806,Blawnox
 178,SEWICKLEY HEIGHTS BOROUGH,869,Sewickley Heights
